@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829800335738",
+    "project_id": "safaritop-347c8",
+    "storage_bucket": "safaritop-347c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829800335738:android:546289dece2efbc2adaec3",
+        "android_client_info": {
+          "package_name": "com.safaritop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829800335738-gufs92u5a4h0r6omlg5fsmruavio4dl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMNv8TDq_ZIDcOpkpJT-6B2CONQ-OjIgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829800335738-gufs92u5a4h0r6omlg5fsmruavio4dl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
